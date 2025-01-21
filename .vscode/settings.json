@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.pc": "c",
+        "stdlib.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c"
+    }
+}
