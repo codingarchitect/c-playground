@@ -1,0 +1,3 @@
+- docker (remote or local), vscode + vs code remote development extension pack (if docker is remote) and devcontainers extension are required. 
+- to compile open the static-variables.c file (or any c file) and press CTRL + SHIFT + B (or Menu select Terminal -> Run Task and Select C/C++: gcc build active file)
+- to run, open the static-variables.c file (or any c file) and press CRTL + SHIFT + D (or use the Run and Debug icon in the left side toolbar which has icons stacked from top to bottom). Select (gdb) Launch if not selected already in the dropdown and click the green arrow.
